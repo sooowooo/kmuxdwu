@@ -5,8 +5,8 @@ const GlobalStyle = createGlobalStyle`
 	font-family: 'Pretendard Variable';
 	font-weight: normal;
 	font-style: normal;
-	font-display: swap;
-	src: url('./woff2/PretendardVariable.woff2') format('woff2-variations');
+	font-display: block;
+	src: url('./fonts/pretendard/PretendardVariable.woff2') format('woff2-variations');
   }
 
   @font-face {
