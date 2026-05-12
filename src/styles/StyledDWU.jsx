@@ -102,7 +102,7 @@ export const Select = styled.div`
 export const Title = styled.div`
   color: #912642;
   text-align: center;
-  font-family: "DNF Bit Bit v2";
+  font-family: "DNFBitBitv2";
   font-size: 25px;
   font-style: normal;
   font-weight: 400;

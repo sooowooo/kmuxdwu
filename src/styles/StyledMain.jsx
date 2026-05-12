@@ -58,7 +58,7 @@ export const Logo = styled.div`
 export const Title = styled.div`
   margin-top: 27px;
   text-align: center;
-  font-family: "DNF Bit Bit v2";
+  font-family: "DNFBitBitv2";
   font-size: 25px;
   font-style: normal;
   font-weight: 400;
